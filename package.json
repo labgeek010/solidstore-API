@@ -1,5 +1,5 @@
 {
-  "name": "alurageek-api",
+  "name": "solidstore-api",
   "version": "1.0.0",
   "description": "Products for Alura Geek fake store api",
   "main": "index.js",
@@ -17,12 +17,12 @@
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "labgeek010, d_cs10@hotmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
+    "url": "https://github.com/SofiDevO/alurageek-API"
   },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
+  "homepage": "https://github.com/SofiDevO/alurageek-API",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
