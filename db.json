@@ -111,6 +111,14 @@
         "price": "30",
         "description": "Open box",
         "id": "671a9da1-214d-4fbf-9c1d-7564b5ccf9fc"
+      },
+      {
+        "imageURL": "https://images.stockx.com/images/Funko-Pop-Rides-Marvel-Ghost-Rider-Black-Light-Funko-Exclusive-Figure-33.png?fit=fill&bg=FFFFFF&w=1200&h=857&fm=jpg&auto=compress&dpr=2&trim=color&updated_at=1623096970&q=60",
+        "category": "Pop",
+        "name": "Ghost Rider 33 ",
+        "price": "$85",
+        "description": "abc",
+        "id": "2452d73e-98b6-4918-82cd-b649fe8e15d7"
       }
     ]
   }
